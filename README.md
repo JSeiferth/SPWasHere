@@ -9,3 +9,5 @@ Together, we can rewrite the rules, ensuring that those who create impact are fa
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1b4394c-fc3c-40d2-af1f-a0ed3fd1ae2a" alt="EggAnimated">
 </p>
+
+Credit to [Secretpika](https://x.com/ttyl5h) for the visual ❤️
