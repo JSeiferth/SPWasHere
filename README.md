@@ -1,5 +1,11 @@
-# readme
-![EggAnimated-ezgif com-resize](https://github.com/user-attachments/assets/d1b4394c-fc3c-40d2-af1f-a0ed3fd1ae2a)
-![BabyPhoenix1Animated-ezgif com-resize](https://github.com/user-attachments/assets/fcac0137-c10a-4368-be79-1aa99b099c9e)
-![BabyPhoenix2Animated-ezgif com-resize (1)](https://github.com/user-attachments/assets/115cc979-0f1a-4739-8352-23fe5c6d6391)
+# Help summon Ether's Phoenix
+[Ether’s Phoenix](https://medium.com/ethereum-optimism/ethers-phoenix-18fb7d7304bb) is a magical creature that rewards those who help build a world where impact = profit.
+It is an evolving algorithm that ensures public goods and positive contributions are recognized and fairly rewarded. You can help summon and grow Ether’s Phoenix by contributing **data**, **models**, **metrics**, and **feedback** to improve how Retro Funding measures impact. 
 
+Together, we can rewrite the rules, ensuring that those who create impact are fairly rewarded for it.
+
+**Current State - Evolution 1: baby phoenix**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d1b4394c-fc3c-40d2-af1f-a0ed3fd1ae2a" alt="EggAnimated">
+</p>
